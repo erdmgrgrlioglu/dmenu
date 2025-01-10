@@ -3,6 +3,13 @@ dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
 
 
-Installed patches
+installed patches
 ------------
-center, border
+center, border, password
+
+
+patch versions
+------------
+dmenu-center-5.2
+dmenu-border-20230512-0fe460d
+dmenu-password-5.0
